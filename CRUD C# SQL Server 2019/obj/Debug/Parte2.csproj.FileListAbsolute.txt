@@ -1,0 +1,12 @@
+C:\Users\AlbertoSM\source\repos\Examen\Parte2\bin\Debug\Parte2.exe.config
+C:\Users\AlbertoSM\source\repos\Examen\Parte2\bin\Debug\Parte2.exe
+C:\Users\AlbertoSM\source\repos\Examen\Parte2\bin\Debug\Parte2.pdb
+C:\Users\AlbertoSM\source\repos\Examen\Parte2\bin\Debug\EntityFramework.dll
+C:\Users\AlbertoSM\source\repos\Examen\Parte2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AlbertoSM\source\repos\Examen\Parte2\bin\Debug\EntityFramework.xml
+C:\Users\AlbertoSM\source\repos\Examen\Parte2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AlbertoSM\source\repos\Examen\Parte2\obj\Debug\Parte2.csproj.AssemblyReference.cache
+C:\Users\AlbertoSM\source\repos\Examen\Parte2\obj\Debug\Parte2.csproj.CoreCompileInputs.cache
+C:\Users\AlbertoSM\source\repos\Examen\Parte2\obj\Debug\Parte2.csproj.CopyComplete
+C:\Users\AlbertoSM\source\repos\Examen\Parte2\obj\Debug\Parte2.exe
+C:\Users\AlbertoSM\source\repos\Examen\Parte2\obj\Debug\Parte2.pdb
