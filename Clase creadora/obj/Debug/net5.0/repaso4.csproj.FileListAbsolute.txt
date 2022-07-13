@@ -1,0 +1,16 @@
+C:\Users\AlbertoSM\source\repos\repaso4\obj\Debug\net5.0\repaso4.csproj.AssemblyReference.cache
+C:\Users\AlbertoSM\source\repos\repaso4\obj\Debug\net5.0\repaso4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlbertoSM\source\repos\repaso4\obj\Debug\net5.0\repaso4.AssemblyInfoInputs.cache
+C:\Users\AlbertoSM\source\repos\repaso4\obj\Debug\net5.0\repaso4.AssemblyInfo.cs
+C:\Users\AlbertoSM\source\repos\repaso4\obj\Debug\net5.0\repaso4.csproj.CoreCompileInputs.cache
+C:\Users\AlbertoSM\source\repos\repaso4\bin\Debug\net5.0\repaso4.exe
+C:\Users\AlbertoSM\source\repos\repaso4\bin\Debug\net5.0\repaso4.deps.json
+C:\Users\AlbertoSM\source\repos\repaso4\bin\Debug\net5.0\repaso4.runtimeconfig.json
+C:\Users\AlbertoSM\source\repos\repaso4\bin\Debug\net5.0\repaso4.runtimeconfig.dev.json
+C:\Users\AlbertoSM\source\repos\repaso4\bin\Debug\net5.0\repaso4.dll
+C:\Users\AlbertoSM\source\repos\repaso4\bin\Debug\net5.0\ref\repaso4.dll
+C:\Users\AlbertoSM\source\repos\repaso4\bin\Debug\net5.0\repaso4.pdb
+C:\Users\AlbertoSM\source\repos\repaso4\obj\Debug\net5.0\repaso4.dll
+C:\Users\AlbertoSM\source\repos\repaso4\obj\Debug\net5.0\ref\repaso4.dll
+C:\Users\AlbertoSM\source\repos\repaso4\obj\Debug\net5.0\repaso4.pdb
+C:\Users\AlbertoSM\source\repos\repaso4\obj\Debug\net5.0\repaso4.genruntimeconfig.cache
